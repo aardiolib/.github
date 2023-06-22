@@ -1,4 +1,3 @@
-## Hi there 👋
 这是一个aardio扩展库
 
 ## 安装方式
