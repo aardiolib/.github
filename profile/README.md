@@ -11,7 +11,7 @@ npm i @aardiolib/扩展库名称
 Xcopy .\node_modules\@aardiolib\扩展库名称\ .\lib\扩展库名称\ /E /Y
 ```
 
-或复制指定扩展库到用户库
+复制指定扩展库到用户库
 ```bash
 Xcopy .\node_modules\@aardiolib\扩展库名称\ .\lib\扩展库名称\ /E /Y
 ```
