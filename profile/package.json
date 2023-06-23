@@ -1,0 +1,20 @@
+{
+  "name": "@aardiolib/all",
+  "version": "1.0.1",
+  "description": "用于引入 aardiolib 所有库",
+  "dependencies": {
+    "@aardiolib/webview2": "^1.0.0",
+    "@aardiolib/promise": "^1.0.0",
+    "@aardiolib/tasks": "^1.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "aardio",
+    "aardiolib"
+  ],
+  "author": "Runy(2439702727@qq.com)",
+  "license": "ISC"
+}
