@@ -1,9 +1,9 @@
 ## 安装方式
 
 ### npm
-下载扩展库
+下载所有扩展库
 ```bash
-npm i @aardiolib/扩展库名称
+npm i @aardiolib/all
 ```
 
 复制所有扩展库到用户库
