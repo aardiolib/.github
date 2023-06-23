@@ -6,7 +6,7 @@
 npm i @aardiolib/all
 ```
 
-复制所有扩展库到用户库
+复制所有扩展库到标准库或用户库
 ```bash
 robocopy .\node_modules\@aardiolib\ .\lib\ /E
 ```
