@@ -1,6 +1,6 @@
 {
   "name": "@aardiolib/all",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "用于引入 aardiolib 所有库",
   "dependencies": {
     "@aardiolib/webview2": "^1.0.0",
