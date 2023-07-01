@@ -5,7 +5,8 @@
   "dependencies": {
     "@aardiolib/webview2": "^1.0.0",
     "@aardiolib/promise": "^1.0.0",
-    "@aardiolib/tasks": "^1.0.0"
+    "@aardiolib/tasks": "^1.0.0",
+    "@aardiolib/winhttp": "^1.0.0"
   },
   "publishConfig": {
     "access": "public",
